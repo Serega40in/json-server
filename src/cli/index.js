@@ -10,16 +10,7 @@ module.exports = function() {
     .config('config')
     .usage('$0 [options] <source>')
     .options({
-      port: {
-        alias: 'p',
-        description: 'Set port',
-        default: 3000
-      },
-      host: {
-        alias: 'H',
-        description: 'Set host',
-        default: 'localhost'
-      },
+
       watch: {
         alias: 'w',
         description: 'Watch file(s)'
