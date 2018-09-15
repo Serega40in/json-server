@@ -13,12 +13,12 @@ module.exports = function() {
       port: {
         alias: 'p',
         description: 'Set port',
-        default: 3000
+        default: 0000
       },
       host: {
         alias: 'H',
         description: 'Set host',
-        default: 'localhost'
+        default: 'berserk-jsondb.herokuapp.com'
       },
       watch: {
         alias: 'w',
