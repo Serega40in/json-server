@@ -1,4 +1,4 @@
 {
   "port": 0000,
-  "host": berserk-jsondb.herokuapp.com
+  "host": "berserk-jsondb.herokuapp.com"
 }
